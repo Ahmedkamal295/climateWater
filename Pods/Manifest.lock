@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.2)
+  - MBCircularProgressBar (0.3.5)
+  - MOLH (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - MBCircularProgressBar
+  - MOLH
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MBCircularProgressBar
+    - MOLH
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: c75366f1f19590e8caeae45fcd5815c9289d6099
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  MOLH: 79723d6938aff0ac02aebe4d89cc96b73f46fa32
+
+PODFILE CHECKSUM: af512bfb5085f35ed783b3b80018aa39e3f2f0b2
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  climateWater
+
+  Created by Khaled Ghoniem on 1/21/20.
+  Copyright © 2019 Khaled Ghoniem. All rights reserved.
+*/
+
+"open" = "افتح";
+"Error" = "خطأ";
+"please enter all of your information" = "برجاء ادخال جميع البيانات";
+"OK" = "موافق";
+"Please enter all your data" = "برجاء ادخال جميع بياناتك";
+"Your data is not complete" = "بياناتك غير مكتملة";
+"please enter your new password" = "برجاء ادخال كلمة المرور الجديدة";
+"Notication Title" = "عنوان الإشعار";
+"1 Nov 2019" = "١ نوفمبر ٢٠١٩";
+"Please enter all of your correct information" = "برجاء ادخال بياناتك الصحيحة";
+"Please enter all your information" = "برجاء ادخال جميع البيانات";
+"Passwords not matches" = "كلمات المرور غير متطابقة";
+"Attention" = "انتبه";
+"By click on sign up you agree to the privacy" = "الموافقة على شروط الاستخدام";
+"Accept" = "موافق";
+"Cancel" = "الغاء";
+"Please login to App" = "برجاء تسجيل الدخول";
+"Add to Cart Product" = "اضافة المنتج الى السلة";
+"Success" = "تم الاضافة بنجاح";
+"Almanakh Pure Life Purified Water 500ml" = "مياه المناخ ٥٠٠ مل";
+"7" = "٧";
+"RS" = "رس";
+"https://climateapp.el-sabat.com/api/categories/1/products" = "https://climateapp.el-sabat.com/api/categories/1/products?lang=ar";
+"https://climateapp.el-sabat.com/api/categories/2/products" = "https://climateapp.el-sabat.com/api/categories/2/products?lang=ar";
+"https://climateapp.el-sabat.com/api/categories" = "https://climateapp.el-sabat.com/api/categories?lang=ar";
+"https://climateapp.el-sabat.com/api/cart" = "https://climateapp.el-sabat.com/api/cart?lang=ar";
+"https://climateapp.el-sabat.com/api/notifications" = "https://climateapp.el-sabat.com/api/notifications?lang=ar";
+"Send Successfully" = "تم اضافة المنتج";

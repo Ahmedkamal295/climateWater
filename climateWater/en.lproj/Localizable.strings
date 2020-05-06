@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  climateWater
+
+  Created by Khaled Ghoniem on 1/21/20.
+  Copyright © 2019 Khaled Ghoniem. All rights reserved.
+*/
+
+"open" = "open";
+"Error" = "Error";
+"please enter all of your information" = "please enter all of your information";
+"OK" = "OK";
+"Please enter all your data" = "Please enter all your data";
+"Your data is not complete" = "Your data is not complete";
+"please enter your new password" = "please enter your new password";
+"Notication Title" = "Notication Title";
+"1 Nov 2019" = "1 Nov 2019";
+"Please enter all of your correct information" = "Please enter all of your correct information";
+"Please enter all your information" = "Please enter all your information";
+"Passwords not matches" = "Passwords not matches";
+"Attention" = "Attention";
+"By click on sign up you agree to the privacy" = "By click on sign up you agree to the privacy";
+"Accept" = "Accept";
+"Cancel" = "Cancel";
+"Please login to App" = "Please login to App";
+"Add to Cart Product" = "Add to Cart Product";
+"Success" = "Success";
+"Almanakh Pure Life Purified Water 500ml" = "Almanakh Pure Life Purified Water 500ml";
+"7" = "7";
+"RS" = "RS";
+"https://climateapp.el-sabat.com/api/categories/1/products" = "https://climateapp.el-sabat.com/api/categories/1/products";
+"https://climateapp.el-sabat.com/api/categories/2/products" = "https://climateapp.el-sabat.com/api/categories/2/products";
+"https://climateapp.el-sabat.com/api/categories" = "https://climateapp.el-sabat.com/api/categories";
+"https://climateapp.el-sabat.com/api/cart" = "https://climateapp.el-sabat.com/api/cart";
+"https://climateapp.el-sabat.com/api/notifications" = "https://climateapp.el-sabat.com/api/notifications";
+"Send Successfully" = "Send Successfully";
