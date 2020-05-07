@@ -2,8 +2,8 @@
 //  TermsVC.swift
 //  climateWater
 //
-//  Created by Khaled Ghoniem on 1/5/20.
-//  Copyright © 2019 Khaled Ghoniem. All rights reserved.
+//  Created by Ahmed on 1/5/20.
+//  Copyright © 2019 Ahmed. All rights reserved.
 //
 
 import UIKit
